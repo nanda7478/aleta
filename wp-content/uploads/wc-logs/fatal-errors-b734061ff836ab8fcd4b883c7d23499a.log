@@ -1,0 +1,181 @@
+2018-03-15T13:04:22+00:00 CRITICAL Uncaught Error: Call to undefined function wpbeginner_numeric_posts_nav() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/custom-template/inner2_page.php:132
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown
+
+2018-03-16T06:00:02+00:00 CRITICAL Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/header.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/index.php(17): get_header()
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown
+
+2018-03-16T06:00:04+00:00 CRITICAL Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/header.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/index.php(17): get_header()
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown
+
+2018-03-16T06:14:09+00:00 CRITICAL Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/header.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/index.php(17): get_header()
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown
+
+2018-03-16T06:14:13+00:00 CRITICAL Uncaught Error: Call to undefined function is_blog() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/header.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(688): require_once()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(647): load_template('/home4/trimurty...', true)
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/index.php(17): get_header()
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#7 {main}
+  thrown
+
+2018-03-16T11:49:31+00:00 CRITICAL Uncaught Error: Call to undefined function mp_product_image() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/single-product.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown
+
+2018-03-16T11:49:34+00:00 CRITICAL Uncaught Error: Call to undefined function mp_product_image() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/single-product.php:66
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown
+
+2018-03-16T11:51:20+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on null in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/templates/single-product/rating.php:29
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1109): wc_get_template('single-product/...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/single-product.php(83): woocommerce_template_single_rating()
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#6 {main}
+  thrown
+
+2018-03-16T11:51:23+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on null in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/templates/single-product/rating.php:29
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1109): wc_get_template('single-product/...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/single-product.php(83): woocommerce_template_single_rating()
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#6 {main}
+  thrown
+
+2018-03-16T11:51:48+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/templates/single-product/price.php:26
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1119): wc_get_template('single-product/...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/single-product.php(84): woocommerce_template_single_price()
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#6 {main}
+  thrown
+
+2018-03-16T11:51:51+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/templates/single-product/price.php:26
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1119): wc_get_template('single-product/...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/single-product.php(84): woocommerce_template_single_price()
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#6 {main}
+  thrown
+
+2018-03-19T06:20:38+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/book-page.php:53
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown
+
+2018-03-19T06:21:13+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/book-page.php:53
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown
+
+2018-03-19T06:21:17+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/twentysixteen/book-page.php:53
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown
+
+2018-03-26T11:29:30+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/woocommerce/myaccount/form-login.php:27
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php(58): wc_get_template('myaccount/form-...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_My_Account::output('')
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(119): WC_Shortcodes::shortcode_wrapper(Array, '')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/shortcodes.php(319): WC_Shortcodes::my_account('', '', 'woocommerce_my_...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home4/trimurty/demosrvr
+
+2018-03-27T04:35:52+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_form_field() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/functions.php:106
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-settings.php(424): include()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-config.php(89): require_once('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-load.php(37): require_once('/home4/trimurty...')
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(13): require_once('/home4/trimurty...')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#5 {main}
+  thrown
+
+2018-03-27T12:39:32+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_single_titl() in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/woocommerce/content-single-product.php:64
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(690): require()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/home4/trimurty...', false)
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/woocommerce/single-product.php(100): wc_get_template_part('content', 'single-product')
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/index.php(17): require('/home4/trimurty...')
+#6 {main}
+  thrown
+
+2018-03-27T12:40:07+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/class-wc-structured-data.php:265
+Stack trace:
+#0 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/woocommerce/content-single-product.php(71): WC_Structured_Data::generate_product_data()
+#1 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template.php(690): require('/home4/trimurty...')
+#2 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/home4/trimurty...', false)
+#3 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-content/themes/aletastjames/woocommerce/single-product.php(100): wc_get_template_part('content', 'single-product')
+#4 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#5 /home4/trimurty/demosrvr.com/wp/aletastjames/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#6 /home4/tr
+

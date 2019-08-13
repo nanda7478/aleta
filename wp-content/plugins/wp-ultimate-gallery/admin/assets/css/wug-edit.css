@@ -1,0 +1,87 @@
+label[for=owl_autoplay1],
+label[for=owl_autoplay2],
+label[for=owl_loop1],
+label[for=owl_loop2],
+label[for=owl_nav1],
+label[for=owl_nav2],
+label[for=owl_dots1],
+label[for=owl_dots2],
+label[for=gallery_preloader1],
+label[for=gallery_preloader2],
+label[for=ajax_pagination1],
+label[for=ajax_pagination2],
+label[for=carousel_link_behabour1],
+label[for=carousel_link_behabour2],
+label[for=carousel_link_behabour3],
+label[for=view_as1],
+label[for=view_as2],
+label[for=view_as3],
+label[for=view_as4],
+label[for=view_as5],
+label[for=view_as6],
+label[for=per_row_images1],
+label[for=per_row_images2],
+label[for=per_row_images3],
+label[for=per_row_images4],
+label[for=per_row_images5],
+label[for=per_row_images6],
+label[for=images_order1],
+label[for=images_order2],
+label[for=gallery_caption1],
+label[for=gallery_caption2],
+label[for=img_fullsize1],
+label[for=img_fullsize2],
+label[for=gallery_caption_field1],
+label[for=gallery_caption_field2],
+label[for=gallery_caption_field3],
+label[for=gallery_caption_field4]
+{display: none}
+.cmb2-id-owl-autoplay .cmb2-radio-list.cmb2-list li,
+.cmb2-id-owl-loop .cmb2-radio-list.cmb2-list li,
+.cmb2-id-owl-nav .cmb2-radio-list.cmb2-list li,
+.cmb2-id-owl-dots .cmb2-radio-list.cmb2-list li,
+.cmb2-id-gallery-preloader .cmb2-radio-list.cmb2-list li,
+.cmb2-id-ajax-pagination .cmb2-radio-list.cmb2-list li,
+.cmb2-id-carousel-link-behabour .cmb2-radio-list.cmb2-list li,
+.cmb2-id-view-as .cmb2-radio-list.cmb2-list li,
+.cmb2-id-per-row-images .cmb2-radio-list.cmb2-list li,
+.cmb2-id-images-order .cmb2-radio-list.cmb2-list li,
+.cmb2-id-gallery-caption .cmb2-radio-list.cmb2-list li,
+.cmb2-id-img-fullsize .cmb2-radio-list.cmb2-list li,
+.cmb2-id-gallery-caption-field .cmb2-radio-list.cmb2-list li
+{
+  display: inline-block;
+  margin-bottom: 0;
+}
+.labelauty-unchecked, .labelauty-checked {
+  padding: 10px 10px 10px 30px;
+  font-size: 13px;
+}        
+input.labelauty:checked + label[for="owl_autoplay1"], input.labelauty:checked + label[for="owl_autoplay1"]:hover,
+input.labelauty:checked + label[for="owl_loop1"], input.labelauty:checked + label[for="owl_loop1"]:hover,
+input.labelauty:checked + label[for="owl_nav1"], input.labelauty:checked + label[for="owl_nav1"]:hover,
+input.labelauty:checked + label[for="owl_dots1"], input.labelauty:checked + label[for="owl_dots1"]:hover,
+input.labelauty:checked + label[for="gallery_preloader1"], input.labelauty:checked + label[for="gallery_preloader1"]:hover,
+input.labelauty:checked + label[for="ajax_pagination1"], input.labelauty:checked + label[for="ajax_pagination1"]:hover,
+input.labelauty:checked + label[for="images_order1"], input.labelauty:checked + label[for="images_order1"]:hover,
+input.labelauty:checked + label[for="gallery_caption1"], input.labelauty:checked + label[for="gallery_caption1"]:hover,
+input.labelauty:checked + label[for="img_fullsize1"], input.labelauty:checked + label[for="img_fullsize1"]:hover
+{
+  background-color: #3ed37d;
+}      
+input.labelauty:checked + label[for="owl_autoplay2"], input.labelauty:checked + label[for="owl_autoplay2"]:hover,
+input.labelauty:checked + label[for="owl_loop2"], input.labelauty:checked + label[for="owl_loop2"]:hover,
+input.labelauty:checked + label[for="owl_nav2"], input.labelauty:checked + label[for="owl_nav2"]:hover,
+input.labelauty:checked + label[for="owl_dots2"], input.labelauty:checked + label[for="owl_dots2"]:hover,
+input.labelauty:checked + label[for="gallery_preloader2"], input.labelauty:checked + label[for="gallery_preloader2"]:hover,
+input.labelauty:checked + label[for="ajax_pagination2"], input.labelauty:checked + label[for="ajax_pagination2"]:hover,
+input.labelauty:checked + label[for="carousel_link_behabour3"], input.labelauty:checked + label[for="carousel_link_behabour3"]:hover,
+input.labelauty:checked + label[for="images_order2"], input.labelauty:checked + label[for="images_order2"]:hover,
+input.labelauty:checked + label[for="gallery_caption2"], input.labelauty:checked + label[for="gallery_caption2"]:hover,
+input.labelauty:checked + label[for="img_fullsize2"], input.labelauty:checked + label[for="img_fullsize2"]:hover
+{
+  background-color: #e74c3c;
+} 
+.cmb2-id-isotope-menu-items input.regular-text {
+  width: 100%;
+}

@@ -1,0 +1,819 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CMB2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/cmb2\n"
+"POT-Creation-Date: 2015-07-29 15:52:03+00:00\n"
+"POT-Revision-Date: Wed May 11 2016 09:56:56 GMT+0600 (BDT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/wp-"
+"translations/cmb2/language/en_GB/)\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. Name of the plugin
+msgid "WordPress Ultimate Gallery"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpultimategallery.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin will multi style gallery in your wordpress site."
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:42 ../../../libs/image-
+#: resizer/class-image-resizer.php:175
+msgid "No image URL has been entered."
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:76 ../../../libs/image-
+#: resizer/class-image-resizer.php:210
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:238
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:281
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:285
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:293
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+#: ../../../libs/image-resizer/class-image-resizer.php:308
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+#. Name of the plugin
+msgid "CMB2"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/WebDevStudios/CMB2"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"CMB2 will create metaboxes and forms with custom fields that will blow your "
+"mind."
+msgstr ""
+
+#. Author of the plugin
+msgid "WebDevStudios"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://webdevstudios.com"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:86 ../../../libs/cmb2/includes/CMB2_JS.
+#: php:119
+msgid "Clear"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:118 ../../..
+#: /libs/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:137 ../../..
+#: /libs/cmb2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:138 ../../..
+#: /libs/cmb2/includes/CMB2_Types.php:357 ../../../libs/cmb2/includes/CMB2_Types.
+#: php:1023
+msgid "Remove"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:139 ../../..
+#: /libs/cmb2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:140 ../../..
+#: /libs/cmb2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Field.php:978 ../../..
+#: /libs/cmb2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Types.php:749 ../../..
+#: /libs/cmb2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: ../../../libs/cmb2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:12
+msgid "Shortcode"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:13
+msgid "Images"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:14
+msgid "Gallery Type"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:15
+msgid "Shortcode will appear when you upload images."
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:17
+msgid "No image uploaded!"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:40
+msgid "image uploaded."
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:41
+msgid "images uploaded."
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:58 ../../../admin/gallery-metabox.
+#: php:13
+msgid "Carousel"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:60 ../../../admin/gallery-metabox.
+#: php:12
+msgid "Slideshow"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:62
+msgid "Masonry Thumbnail"
+msgstr ""
+
+#: ../../../admin/admin-shortcode-generator.php:64 ../../../admin/gallery-metabox.
+#: php:10
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../../admin/gallery-cpt.php:13
+msgid "Galleries"
+msgstr ""
+
+#: ../../../admin/gallery-cpt.php:14
+msgid "Gallery"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:11 ../../../admin/admin-plugin-settings.php:
+#: 108
+msgid "Masonry"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:14 ../../../admin/admin-plugin-settings.php:
+#: 72
+msgid "Lightbox"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:55
+msgid "Configure Gallery"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:60
+msgid "Upload Images"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:61
+msgid "Upload gallery images here. You can upload all at once."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:67
+msgid "View as"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:68
+msgid "Select how you want to view gallery."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:75
+msgid "Carousel width"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:76
+msgid ""
+"Select carousel width in px. Don't worry, slideshow will responsive. This is "
+"just used for image crop. Numbers only."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:83
+msgid "Carousel height"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:84
+msgid ""
+"Select carousel height in px. Don't worry, slideshow will responsive. This "
+"is just used for image crop. Numbers only."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:91
+msgid "Slideshow width"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:92
+msgid ""
+"Select slideshow width in px. Don't worry, slideshow will responsive. This "
+"is just used for image crop. Numbers only."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:99
+msgid "Slideshow height"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:100
+msgid ""
+"Select slideshow height in px. Don't worry, slideshow will responsive. This "
+"is just used for image crop. Numbers only."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:109
+msgid "Images per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:110
+msgid ""
+"If you select flexible here, it will take 160px width each image & display "
+"columns automatically with your page container width. Alternatively, you can "
+"select images per row."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:114
+msgid "Flexible"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:115
+msgid "1 Image per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:116
+msgid "2 Images per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:117
+msgid "3 Images per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:118
+msgid "4 Images per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:119
+msgid "6 Images per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:126
+msgid "Enable AJAX navigation?"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:127
+msgid "If you want to enable AJAX pagination on gallery, select yes here."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:131 ../../../admin/gallery-metabox.php:153 .
+#: ./../../admin/gallery-metabox.php:190 ../../../admin/gallery-metabox.php:200 ..
+#: /../../admin/gallery-metabox.php:212 ../../../admin/gallery-metabox.php:281
+msgid "No"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:132 ../../../admin/gallery-metabox.php:152 .
+#: ./../../admin/gallery-metabox.php:189 ../../../admin/gallery-metabox.php:201 ..
+#: /../../admin/gallery-metabox.php:211 ../../../admin/gallery-metabox.php:280
+msgid "Yes"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:138
+msgid "Images per page"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:139
+msgid "Type a number how many images will show per page. Numbers only."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:147
+msgid "Enable autoplay?"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:148
+msgid "If you want to enable autoplay, select Yes here."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:159
+msgid "Autoplay Time"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:160
+msgid "Set autoplay time here."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:165
+msgid "1 Second"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:166
+msgid "2 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:167
+msgid "3 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:168
+msgid "4 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:169
+msgid "5 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:170
+msgid "6 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:171
+msgid "7 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:172
+msgid "8 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:173
+msgid "9 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:174
+msgid "10 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:175
+msgid "11 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:176
+msgid "12 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:177
+msgid "13 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:178
+msgid "14 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:179
+msgid "15 Seconds"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:184
+msgid "Enable loop?"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:185
+msgid "If you want loop infinite, select Yes here."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:195
+msgid "Enable nav buttons"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:196
+msgid "If you want enable next previous arrow, select Yes here."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:206
+msgid "Enable bullets?"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:207
+msgid "If you want enable bullets, select Yes here."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:217
+msgid "Carousel items per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:218
+msgid "Select carousel items per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:223 ../../../admin/gallery-metabox.php:243 .
+#: ./../../admin/gallery-metabox.php:260
+msgid "1 Item"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:224 ../../../admin/gallery-metabox.php:244 .
+#: ./../../admin/gallery-metabox.php:261
+msgid "2 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:225 ../../../admin/gallery-metabox.php:245 .
+#: ./../../admin/gallery-metabox.php:262
+msgid "3 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:226 ../../../admin/gallery-metabox.php:246
+msgid "4 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:227 ../../../admin/gallery-metabox.php:247
+msgid "5 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:228 ../../../admin/gallery-metabox.php:248
+msgid "6 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:229 ../../../admin/gallery-metabox.php:249
+msgid "7 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:230
+msgid "8 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:231
+msgid "9 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:232
+msgid "10 Items"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:237
+msgid "Carousel tablet items per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:238
+msgid "Select carousel tablet items per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:254
+msgid "Carousel mobile items per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:255
+msgid "Select carousel mobile items per row"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:267
+msgid "Carousel items margin"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:268
+msgid "Type items between margin in px. Numbers only."
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:275
+msgid "Enable preloader?"
+msgstr ""
+
+#: ../../../admin/gallery-metabox.php:276
+msgid "If you want to enable preloader, select Yes here."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:15
+msgid "Gallery updated. Upload images to generate shortcode."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:16 ../../../admin/admin-
+#: gallery-custom-messages.php:30
+msgid "Gallery field updated."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:17 ../../../admin/admin-
+#: gallery-custom-messages.php:31
+msgid "Gallery field deleted."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:18 ../../../admin/admin-
+#: gallery-custom-messages.php:32
+msgid "Gallery updated."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:19 ../../../admin/admin-
+#: gallery-custom-messages.php:33
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:20
+msgid "Gallery published. Upload images to generate shortcode."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:21 ../../../admin/admin-
+#: gallery-custom-messages.php:35
+msgid "Gallery saved."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:22 ../../../admin/admin-
+#: gallery-custom-messages.php:36
+msgid "Gallery submitted."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:23 ../../../admin/admin-
+#: gallery-custom-messages.php:37
+#, php-format
+msgid "Gallery scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:23 ../../../admin/admin-
+#: gallery-custom-messages.php:37
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:24 ../../../admin/admin-
+#: gallery-custom-messages.php:38
+msgid "Gallery draft updated."
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:29
+#, php-format
+msgid "Gallery updated. Shortcode is: %s"
+msgstr ""
+
+#: ../../../admin/admin-gallery-custom-messages.php:34
+#, php-format
+msgid "Gallery published. Shortcode is: %s"
+msgstr ""
+
+#: ../../../admin/media-extra-fields.php:6
+msgid "Video URL"
+msgstr ""
+
+#: ../../../admin/media-extra-fields.php:9
+msgid "Type video URL, if have."
+msgstr ""
+
+#: ../../../admin/media-extra-fields.php:13
+msgid "External Link"
+msgstr ""
+
+#: ../../../admin/media-extra-fields.php:16
+msgid "Image external URL. Used in carousel view."
+msgstr ""
+
+#: ../../../admin/gallery-shortcode.php:63
+msgid "Loading ..."
+msgstr ""
+
+#: ../../../admin/gallery-shortcode.php:64
+msgid "Load more"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:16
+msgid "WP Ultimate Gallery Options"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:39 ../../../admin/admin-plugin-
+#: settings.php:162
+msgid "WP Ultimate Gallery Settings"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:73
+msgid ""
+"If you want to enable lightbox, enable it here. If you disable, it will stop "
+"loading magnific popup files from plugin."
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:78
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:79
+msgid "Disable Lightbox"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:84
+msgid "Slideshow & Carousel"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:85
+msgid ""
+"If you want to enable slideshow & carousel, enable it here. If you disable, "
+"it will stop loading owl carousel files from plugin."
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:90
+msgid "Enable Slideshow & Carousel"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:91
+msgid "Disable Slideshow & Carousel"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:96
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:97
+msgid ""
+"If you want to enable infinite scroll, enable it here. If you disable, it "
+"will stop loading infinite scroll files from plugin."
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:102
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:103
+msgid "Disable Infinite Scroll"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:109
+msgid ""
+"If you want to enable masonry, enable it here. If you disable, it will not "
+"enqueue masonry script from WordPress. <br/><b>BTW</b>, if other plugin "
+"enqueue masonry script, it will remain active."
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:114
+msgid "Enable Masonry"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:115
+msgid "Disable Masonry"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:126
+msgid "Settings updated."
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:163
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../../../admin/admin-plugin-settings.php:172
+msgid "Please wait ..."
+msgstr ""

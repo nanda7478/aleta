@@ -1,0 +1,74 @@
+<?php
+/**
+ * The Template for displaying all single products
+ *
+ * This template can be overridden by copying it to yourtheme/woocommerce/single-product.php.
+ *
+ * HOWEVER, on occasion WooCommerce will need to update template files and you
+ * (the theme developer) will need to copy the new files to your theme to
+ * maintain compatibility. We try to do this as little as possible, but it does
+ * happen. When this occurs the version of the template file will be bumped and
+ * the readme will list any important changes.
+ *
+ * @see 	    https://docs.woocommerce.com/document/template-structure/
+ * @author 		WooThemes
+ * @package 	WooCommerce/Templates
+ * @version     1.6.4
+ */
+
+get_header();?>
+
+<?php $my_query = new WP_Query('page_id=262');
+while ($my_query->have_posts()) : $my_query->the_post();
+$do_not_duplicate = $post->ID;?>
+ <h3><?php the_title(); ?></h3>
+    
+<div class="row">
+ 	
+ <div class="col-sm-12">
+ <?php the_field('content_box');?>
+ </div>
+
+</div>
+
+<div class="row">
+ 	
+ <div class="col-sm-12">
+ <ul>
+ <?php
+
+// check if the repeater field has rows of data
+if( have_rows('product_category') ):
+
+ 	// loop through the rows of data
+    while ( have_rows('product_category') ) : the_row();
+?>
+  <li><a href="<?php the_sub_field('url');?>"><?php the_sub_field('name');?></a></li>
+
+
+<?php
+    endwhile;
+
+endif;
+
+?>
+</ul>
+ </div>
+
+</div>
+
+ <?php endwhile; ?>
+
+
+ <?php
+   while(have_posts()): the_post();
+ ?>
+
+<?php the_title();?>
+<a class=&quot;button wc-backward&quot; href=&quot;<?php echo get_permalink( wc_get_page_id( '4736' ) ); ?>&quot;><?php _e( 'Buying guide', 'woocommerce' ) ?></a>
+<?php endwhile;?>
+
+<?php
+get_footer();
+
+?>
